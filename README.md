@@ -1,1 +1,1 @@
-# bc365
+# Today Ukraine has several basic electronic document management systems. These are MEDOC, VCHASNO, FLYDOC, PTAX. In this project I will try to organize an exchange with these systems from Microsoft Dynamics 365 Business # Central. For personal use only. Many thanks to colleagues for their help
